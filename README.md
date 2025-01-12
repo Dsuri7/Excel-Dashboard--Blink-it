@@ -11,7 +11,7 @@ This Excel project analyzes Blinkit’s sales performance, customer satisfaction
 - **Objective:** Identify the performance of different item types in terms of total sales.  
 - **Chart Type:** Bar Chart  
 
-### 3. **Fat Content by Outlet **  
+### 3. Fat Content by Outlet 
 - **Objective:** Compare total sales across different outlets segmented by fat content.  
 - **Chart Type:** Clustered Bar Chart  
 
