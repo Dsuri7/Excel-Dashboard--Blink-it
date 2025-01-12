@@ -1,5 +1,4 @@
 ### Excel-Dashboard--Blink-it
-##POWER-BI---BlinkIT-
 
 This Excel project analyzes Blinkit’s sales performance, customer satisfaction, and outlet growth. The interactive dashboard provides valuable insights into sales trends, item performance, and outlet distribution, helping stakeholders make data-driven decisions.
 ## 📋 Business Requirements  
